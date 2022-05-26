@@ -1,1 +1,2 @@
 1. call hotel
+2. choose the hotel
